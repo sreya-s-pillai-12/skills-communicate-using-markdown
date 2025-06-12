@@ -1,6 +1,6 @@
 # Daily Learning
 ## Morning Planning
-![Mona the Octocat](myrepo/original.png)
+
 
 
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
